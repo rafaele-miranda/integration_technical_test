@@ -1,0 +1,10 @@
+{
+  "orderNo": 1,
+  "isPending": true,
+  "isOnHold": false,
+  "isDone": false,
+  "isCanceled": false,
+  "summary": "Manutenção preventiva",
+  "creationDate": "2025-05-26T08:00:00Z",
+  "lastUpdateDate": "2025-05-26T08:30:00Z"
+}
